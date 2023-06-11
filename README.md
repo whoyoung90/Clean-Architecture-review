@@ -1,1 +1,4 @@
-# Clean-Architecture-review
+# 🚩 클린 아키텍쳐 리뷰
+
+6월 첫째주<br />
+15장) 아키텍쳐란? 16장) 독립성
